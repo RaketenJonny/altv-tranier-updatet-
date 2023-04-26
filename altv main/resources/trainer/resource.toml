@@ -1,3 +1,0 @@
-client-main = 'client.js'
-main = 'server.js'
-type = 'js'
